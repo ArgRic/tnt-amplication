@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.6",
+  "appInfo": {
+    "name": "Amplication Test - Sample app",
+    "description": "Prueba template",
+    "version": "7f15pbgv",
+    "id": "cl2ozxphx110037501s6evodd8n4",
+    "url": "https://app.amplication.com/cl2ozxphx110037501s6evodd8n4",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl2ozxphx110037501s6evodd8n4",
+      "authProvider": "Jwt"
+    }
+  }
+}
